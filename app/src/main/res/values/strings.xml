@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text Remodeler</string>
+    <string name="reverse">Reverse</string>
+    <string name="pig_latin">Pig Latin</string>
+    <string name="count_vowels">Count Vowels</string>
+    <string name="enter_text">enter text</string>
+    <string name="clear">Clear</string>
+</resources>
